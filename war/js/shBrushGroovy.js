@@ -42,7 +42,7 @@ SyntaxHighlighter.brushes.Groovy = function()
 					'findIndexOf grep inject max min reverseEach sort ' +
 					'asImmutable asSynchronized flatten intersect join pop reverse subMap toList ' +
 					'padRight padLeft contains eachMatch toCharacter toLong toUrl tokenize ' +
-					'eachFile eachFileRecurse eachB yte eachLine readBytes readLine getText ' +
+					'eachFile eachFileRecurse eachByte eachLine readBytes readLine getText ' +
 					'splitEachLine withReader append encodeBase64 decodeBase64 filterLine ' +
 					'transformChar transformLine withOutputStream withPrintWriter withStream ' +
 					'withStreams withWriter withWriterAppend write writeLine '+
